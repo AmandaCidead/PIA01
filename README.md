@@ -12,4 +12,4 @@ Descripción de la Tarea
 1. Añadir archivo "Readme"
 2. Añadir archivo en lenguaje de programación Python "Hola Mundo"
 
-- El segundo apartado de la tarea consistirá en seguir a traves de nuesra cuenta de linkedin  "Comunidad Spain AI"y buscar profesionales o expertos en el ámbito de la inteligencia artificial y seguirles en dicha red. 
+- El **segundo apartado** de la tarea consistirá en seguir a traves de nuesra cuenta de **linkedin** a "Comunidad Spain AI"y buscar profesionales o expertos en el ámbito de la inteligencia artificial y seguirles en dicha red. 
